@@ -1,2 +1,2 @@
 # Portafolio
-Análisis de Datos de la Premier League (EPL) 2020-2021
+- En este portafolio, comparto mi conocimiento como estudiante acerca de ciencia de datos
